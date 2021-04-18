@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Checkboxes_and_etc</string>
+    <string name="lblChocolate_Sy">Chocolate Syrup</string>
+    <string name="lbl_Sprinkles">Sprinkles</string>
+    <string name="lbl_Crushed_nuts">Crushed nuts</string>
+    <string name="lbl_Cherries">Cherries</string>
+    <string name="lbl_Orio">Orio cookie crumbles</string>
+    <string name="show_toast">SHOW TOAST</string>
+
+</resources>
